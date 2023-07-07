@@ -73,5 +73,4 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
-(setq fancy-splash-image (concat doom-private-dir "emacs_logo.png"))
-
+(setq fancy-splash-image (concat doom-private-dir "emacs_logo_2.png"))
