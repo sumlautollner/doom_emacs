@@ -8,7 +8,15 @@
 ;; To install SOME-PACKAGE from MELPA, ELPA or emacsmirror:
 ;(package! some-package)
 ;;(package! org-roam)
-(package! leuven-theme)
+;;(package! leuven-theme)
+(package! spacemacs-theme)
+(package! humanoid-themes) 
+(package! solo-jazz-theme)
+(package! afternoon-theme)
+(package! base16-theme) 
+(package! lab-themes)
+(package! apropospriate-theme)
+
 ;; To install a package directly from a remote git repo, you must specify a
 ;; `:recipe'. You'll find documentation on what `:recipe' accepts here:
 ;; https://github.com/radian-software/straight.el#the-recipe-format
